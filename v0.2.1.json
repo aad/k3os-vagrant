@@ -1,0 +1,6 @@
+{
+    "password": "rancher",
+    "iso_url": "iso/k3os-amd64-v0.2.1.iso",
+    "iso_checksum_type": "sha256",
+    "iso_checksum": "cdb7a693f53816144a69f1ed48fa43698bead36cdcba0b53d85dea58b469ad98"
+}
